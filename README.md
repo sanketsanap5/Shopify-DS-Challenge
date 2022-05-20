@@ -1,4 +1,6 @@
 # Shopify-DS-Challenge
 Shopify Data Scientist Challenge
 
-Checkout 
+Checkout Shopify DS Challenge file
+
+
